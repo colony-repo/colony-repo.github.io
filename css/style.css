@@ -3,3 +3,8 @@ body {
   color: CanvasText;
   color-scheme: light dark;
 }
+
+.parent {
+    display: flex;
+    flex-direction: column;
+}
