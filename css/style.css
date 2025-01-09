@@ -4,7 +4,7 @@ body {
   color-scheme: light dark;
 }
 
-.parent {
+.column {
     display: flex;
     flex-direction: column;
 }
